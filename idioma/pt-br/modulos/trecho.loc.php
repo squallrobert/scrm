@@ -1,0 +1,22 @@
+<?
+define("RTL_ID", "Id");
+define("RTL_ID_VEICULO", "Id Veiculo");
+define("RTL_ID_TIPO_VIAGEM", "Id Tipo Viagem");
+define("RTL_ID_SENTIDO_TRECHO", "Id Sentido Trecho");
+define("RTL_CODIGO_AUTORIZACAO", "Código Autorização");
+define("RTL_DATA", "Data");
+define("RTL_EXCLUIDO", "Excluído");
+define("RTL_DESCRICAO_LISTAGEM_TRECHO", "Listagem de Trecho");
+define("TXT_ALERT_SUCESSO_MODIFICAR", "Sucesso ao modificar registro");
+define("TXT_ALERT_ERRO_OPERACAO", "Erro ao executar operação");
+define("TXT_ALERT_SUCESSO_OPERACAO", "Sucesso ao executar operação");
+define("TXT_ALERT_SUCESSO_ADICIONAR", "Sucesso ao Adicionar registro");
+define("TXT_CONFIRME_DELETE_REGISTROS", "Deseja realmente remover este(s) registro(s)?");
+define("TXT_CONFIRMACAO_DELETE_REGISTROS", "Registros foram excluídos com êxito");
+define("TXT_ERRO_DELETAR_REGISTROS", "Erro ao Excluir registros");
+define("TXT_ERRO_NENHUM_REGISTRO_SELECIONADO", "Por favor, selecione itens para serem excluídos");
+define("TXT_ATENCAO", "Atenção");
+define("TXT_PREENCHA_CAMPOS_OBRIGATORIOS", "Por favor preencher todos os campos obrigatórios");
+define("RTL_TRECHO", "Trecho");
+define("RTL_MODIFICAR_TRECHO", "Modificar Trecho");
+define("RTL_ADICIONAR_TRECHO", "Adicionar Trecho");

@@ -1,0 +1,22 @@
+<?
+define("RTL_ID", "Id");
+define("RTL_XML", "Xml");
+define("RTL_NOME", "Nome");
+define("RTL_DESCRICAO", "Descrição");
+define("RTL_EXCLUIDO", "Excluído");
+define("RTL_DESCRICAO_LISTAGEM_ACAO_EMBARCADA", "Listagem de Ação Embarcada");
+define("TXT_ALERT_SUCESSO_MODIFICAR", "Sucesso ao modificar registro");
+define("TXT_ALERT_ERRO_OPERACAO", "Erro ao executar operação");
+define("TXT_ALERT_SUCESSO_OPERACAO", "Sucesso ao executar operação");
+define("TXT_ALERT_SUCESSO_ADICIONAR", "Sucesso ao Adicionar registro");
+define("TXT_CONFIRME_DELETE_REGISTROS", "Deseja realmente remover este(s) registro(s)?");
+define("TXT_CONFIRMACAO_DELETE_REGISTROS", "Registros foram excluídos com êxito");
+define("TXT_ERRO_DELETAR_REGISTROS", "Erro ao Excluir Registros");
+define("TXT_ERRO_NENHUM_REGISTRO_SELECIONADO", "Por favor, selecione itens para serem excluídos");
+define("TXT_ATENCAO", "Atenção");
+define("TXT_PREENCHA_CAMPOS_OBRIGATORIOS", "Por favor preencher todos os campos obrigatórios");
+define("RTL_ACAO_EMBARCADA", "Ação Embarcada");
+define("RTL_MODIFICAR_ACAO_EMBARCADA", "Modificar Ação Embarcada");
+define("RTL_ADICIONAR_ACAO_EMBARCADA", "Adicionar Ação Embarcada");
+define("RTL_EDITAR_ACOES", "Editar ações");
+define("RTL_VINCULAR_BIBLIOTECAS", "Vincular bibliotecas");

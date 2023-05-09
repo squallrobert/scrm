@@ -1,0 +1,31 @@
+<?
+define("RTL_LISTA_DUPLA", "Lista dupla");
+define("RTL_REGRAS_AGENDAMENTO", "Regras de agendamento");
+define("RTL_SEGUNDA_ABREVIADO", "Seg");
+define("RTL_TERCA_ABREVIADO", "Ter");
+define("RTL_QUARTA_ABREVIADO", "Qua");
+define("RTL_QUINTA_ABREVIADO", "Qui");
+define("RTL_SEXTA_ABREVIADO", "Sex");
+define("RTL_SABADO_ABREVIADO", "Sab");
+define("RTL_DOMINGO_ABREVIADO", "Dom");
+define("RTL_ADICIONAR_REGRA_AGENDAMENTO", "Adicionar Regra de Agendamento");
+define("RTL_MODIFICAR_REGRA_AGENDAMENTO", "Modificar Regra de Agendamento");
+define("RTL_ATRIBUIR_CERCAS_REGRA", "Atribuir cercas à regra");
+define("RTL_CERCA_ROTA", "Cerca Rotas");
+define("RTL_CERCA_POLIGONO", "Cerca Polígono");
+define("RTL_PONTO_INTERESSE", "Ponto de Interesse");
+define("RTL_REPETICOES", "Repetições");
+define("RTL_PLACEHOLDER_BUSCA_CERCA", "Digite uma placa, complemento ou uma cerca");
+define("RTL_ATRIBUIR_CERCA", "Atribuir cercas");
+define("TXT_INFO_FORM", "Será exibido um registro a cada vínculo entre um veículo e uma cerca de qualquer tipo.");
+
+define("TXT_TUTORIAL_ADICIONAR", "Botão onde pode ser adicionado novas regras de agendamento para cercas no sistema");
+define("TXT_TUTORIAL_BUSCA", "Digite algo para buscar e aperte enter ou clique na lupa para iniciar a pesquisa, dessa forma, serão filtrados registros que contenham o texto buscado");
+define("TXT_TUTORIAL_LISTAGEM", "Clique em colunas que possuem as setas para ordenar os registros. Os ícones da última coluna da direita possuem ações para cada registro");
+define("TXT_TUTORIAL_NOME", "Nome identificador da regra de agendamento");
+define("TXT_TUTORIAL_HORA_INICIO", "Horário de início do intervalo da regra");
+define("TXT_TUTORIAL_HORA_FIM", "Horário final do intervalo da regra");
+define("TXT_TUTORIAL_REPETICOES", "Dias em que a regra irá funcionar");
+define("TXT_TUTORIAL_BUSCAR_MULTISELECT", "Digite uma placa, complemento de placa ou o nome de uma cerca para iniciar a pesquisa. Caso não tenha certeza do que buscar, digite um espaço, dessa forma, serão buscados alguns registros sem nenhum filtro");
+define("TXT_TUTORIAL_LISTA_DUPLA", "No bloco da esquerda, serão listados os registros resultantes da busca. Clique neles para os mesmos serem selecionados e jogados para o bloco da direita. Registros no bloco da direita serão vinculados à regra ao salvar.");
+define("TXT_MSG_BUSCA", "Colunas de Busca: Nome.");

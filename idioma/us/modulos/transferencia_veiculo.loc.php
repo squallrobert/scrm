@@ -1,0 +1,28 @@
+<?
+define("RTL_ID", "Id");
+define("RTL_ID_VEICULO", "Id Veiculo");
+define("RTL_ID_FRANQUIA_ORIGEM", "Id Franquia Origem");
+define("RTL_ID_FRANQUIA_DESTINO", "Id Franquia Destino");
+define("RTL_DATA_HORA_TRANSFERENCIA", "Data Hora Transferencia");
+define("RTL_DESCRICAO_LISTAGEM_TRANSFERENCIA_VEICULO", "Listagem de Transferencia Veiculo");
+define("TXT_ALERT_SUCESSO_MODIFICAR", "Sucesso ao modificar registro");
+define("TXT_ALERT_ERRO_OPERACAO", "Erro ao executar operação");
+define("TXT_ALERT_SUCESSO_OPERACAO", "Sucesso ao executar operação");
+define("TXT_ALERT_SUCESSO_ADICIONAR", "Sucesso ao Adicionar registro");
+define("TXT_CONFIRME_DELETE_REGISTROS", "Deseja realmente remover este(s) registro(s)?");
+define("TXT_CONFIRMACAO_DELETE_REGISTROS", "Registros foram excluidos com exito");
+define("TXT_ERRO_DELETAR_REGISTROS", "Erro ao Excluir registros");
+define("TXT_ERRO_NENHUM_REGISTRO_SELECIONADO", "Por favor, selecione itens para serem excluidos");
+define("TXT_ATENCAO", "Atenção");
+define("TXT_PREENCHA_CAMPOS_OBRIGATORIOS", "Por favor preencher todos os campos obrigatórios");
+define("RTL_TRANSFERENCIA_VEICULO", "Transferencia Veiculo");
+define("RTL_MODIFICAR_TRANSFERENCIA_VEICULO", "Modificar Transferencia Veiculo");
+define("RTL_ADICIONAR_TRANSFERENCIA_VEICULO", "Adicionar Transferencia Veiculo");
+define("RTL_FRANQUEADO_ATUAL", "Franqueado atual");
+define("RTL_GERAR_LISTA_VERIFICACAO", "Gerar lista de verificação");
+define("RTL_TRANSFERIR", "Transferir");
+define("RTL_TRANSFERIR_VEICULOS", "Veiculos para transferência");
+define("RTL_SELECIONE_FRANQUIA_DESTINO", "Selecione a franquia de destino");
+define("RTL_SELECIONE_VEICULOS", "Selecione os veículos para transferência");
+define("RTL_DESEJA_REALIZAR_TRANSFERENCIA", "Deseja realizar a transferência para os veiculos selecionados? A ação é irreversível.");
+define("TXT_ALERTA_SUCESSO_TRANSFERENCIA", "A transferência foi feita com sucesso.<br/><br/>Gere a lista de verificação para confirmar a franquia atual dos veículos.");

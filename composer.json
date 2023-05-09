@@ -1,0 +1,20 @@
+{
+  "name": "vendor_name/gsmedia",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "squal",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "spatie/dropbox-api": "^1.21"
+  },
+  "config": {
+    "platform": {
+      "php": "7.4"
+    }
+  }
+}

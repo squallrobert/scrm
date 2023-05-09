@@ -1,0 +1,45 @@
+<?php
+define("RTL_VEICULO", "Veículo");
+define("RTL_NOTA", "Nota");
+define("RTL_ENTREGA", "Entrega (Nota fiscal)");
+define("RTL_ENTREGAS", "Entregas");
+define("RTL_ENTREGAS_MES", "Entregas por mês ");
+define("RTL_LATITUDE", "Latitude");
+define("RTL_LONGITUDE", "Longitude");
+define("RTL_EM_TRANSITO", "Em Trânsito");
+define("RTL_ENTREGUE", "Entregue");
+define("RTL_CARREGANDO", "Carregando");
+define("RTL_DEVOLUCAO", "Devolução");
+define("RTL_FILTRO_DATA", "Filtro Data");
+define("TXT_MSG_BUSCA", "Colunas de Busca: Rótulo, Código");
+define("VALIDACAO_DATA_ENTREGA", "Informe a data de entrega");
+define("RTL_LOGRADOURO", "Endereço");
+define("RTL_NUMERO", "Número");
+define("RTL_CEP", "CEP");
+define("RTL_COMPLEMENTO", "Complemento");
+define("RTL_BAIRRO", "Bairro");
+define("RTL_CIDADE", "Cidade");
+define("RTL_UF", "UF");
+define("RTL_MODIFICAR_ENTREGA", "Atualizar controle de entrega");
+define("RTL_ADICIONAR_ENTREGA", "Adicionar controle de entrega");
+define("RTL_VISUALIZAR_ENTREGA", "Visualizar controle de entrega");
+define("RTL_ACOES", "Ações");
+define("RTL_EM_REFEICAO", "Em refeição");
+
+//txt tutorial//
+define("TXT_TUTORIAL_ESTATISTICAS", "Estatísticas das entregas cadastradas");
+define("TXT_TUTORIAL_LISTAGEM", "Listagem das entregas cadastradas");
+define("TXT_TUTORIAL_BTN", "Adicionar entrega");
+define("TXT_TUTORIAL_ADICIONAR", "Clique aqui para adicionar uma nova entrega");
+define("TXT_TUTORIAL_DADOS", "Dados da entrega");
+define("TXT_TUTORIAL_PREENCHA", "Preencha os campos obrigatórios");
+define("TXT_TUTORIAL_LOCAL", "Local");
+define("TXT_TUTORIAL_LOCAL_DESC", "Nome da empresa destino da entrega");
+define("RTL_TUTORIAL_SITUACAO", "Situação");
+define("TXT_TUTORIAL_SITUACAO", "Cadastre a situação atual da entrega");
+define("TXT_TUTORIAL_VEICULO", "Placa do veículo");
+define("TXT_TUTORIAL_ENTREGA", "Código da entrega");
+define("TXT_TUTORIAL_DATA_ENTREGA", "Cadastre aqui a data de entrega");
+define("TXT_TUTORIAL_LOGRADOURO", "Insira aqui o endereço da entrega");
+define("TXT_TUTORIAL_RELATORIO", "Relatório das entregas");
+define("TXT_TUTORIAL_VISUALIZACAO", "Relatório sinótico das entregas");

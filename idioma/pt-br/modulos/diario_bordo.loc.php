@@ -1,0 +1,24 @@
+<?
+define("RTL_DIARIO_BORDO", "Diário de Bordo");
+define("RTL_GERAR", "Gerar");
+define("RTL_IMPRIMIR", "Imprimir");
+define("RTL_PDF", "PDF");
+define("RTL_EXCEL", "Excel");
+define("RTL_DATA", "Data");
+define("RTL_HORA", "Hora");
+define("RTL_OBSERVACAO", "Observação");
+define("RTL_PLACA_ROTULO", "Placa/Rótulo");
+define("RTL_BATIDA_INICIAL", "Batida inicial");
+define("RTL_BATIDA_FINAL", "Batida final");
+define("RTL_ENDERECO_BATIDA_FINAL", "Endereço da batida final");
+define("RTL_ODOMETRO", "Odômetro");
+define("RTL_MOTORISTA", "Motorista");
+define("RTL_LIGADO", "Ligado");
+define("RTL_DESLIGADO", "Desligado");
+define("RTL_DATA_HORA", "Data/hora");
+define("RTL_IGNICAO", "Ignição");
+define("RTL_ENDERECO", "Endereço");
+define("RTL_TIPO_BATIDA", "Tipo da batida");
+define("RTL_ENTRADA", "Entrada");
+define("RTL_SAIDA", "Saída");
+define("RTL_SEPARAR_DATA_HORA", "Separar data e hora");

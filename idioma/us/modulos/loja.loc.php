@@ -1,0 +1,20 @@
+<?php
+define("RTL_ADICIONAR_DASHBOARD", "Adicionar à tela inicial");
+define("RTL_ADICIONAR_DASHBOARD_ICO", "<i class='fas fa-plus'></i> Adicionar à tela inicial");
+define("RTL_REMOVER_DASHBOARD", "Remover da tela inicial");
+define("RTL_REMOVER_DASHBOARD_ICO", "<i class='fas fa-times'></i> Remover da tela inicial");
+define("RTL_CONTRATAR_SERVICO", "Contratar Serviço");
+define("RTL_GR", "GR");
+define("RTL_LOGISTICA", "Logística");
+define("RTL_PESSOA_FISICA", "Pessoa Física");
+define("RTL_PESSOA_JURIDICA", "Pessoa Jurídica");
+define("RTL_TELEMETRIA", "Telemetria");
+define("RTL_VISUALIZAR_IMAGEM", "Visualizar Imagem");
+define("RTL_VISUALIZAR_MODULO", "Visualizar Módulo");
+define("RTL_PLACEHOLDER_BUSCA", "Digite o nome do aplicativo");
+define("RTL_SERVICO_ADQUIRIDO", "Serviço adquirido");
+define("RTL_GERENCIADOR_APLICATIVOS", "Gerenciador de Aplicativos");
+define("RTL_LER_MENOS", "Ler menos");
+define("RTL_LER_MAIS", "Ler mais");
+define("TXT_NAO_EXISTEM_APLICATIVOS_CATEGORIA", "Não existem aplicativos nessa categoria");
+define("TXT_ESPERE_LOADING", "Espere o carregamento do terminar.");

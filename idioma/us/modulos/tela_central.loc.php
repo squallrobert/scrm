@@ -1,0 +1,55 @@
+<?
+define("RTL_INSERIR_HISTORICO_VEICULO", "Inserir histórico do veículo");
+define("RTL_INSERIR_HISTORICO_CLIENTE", "Inserir histórico do cliente");
+define("RTL_ENCERRAR_ATENDIMENTO", "Encerrar atendimento");
+define("RTL_VEICULOS_CLIENTE", "Veículos do cliente");
+define("RTL_SELECIONAR", "Selecionar");
+define("RTL_SELECIONE_VEICULO", "Selecione o veículo na listagem");
+define("RTL_ATENDIMENTOS", "Atendimentos");
+define("RTL_COMANDOS_ENVIADOS", "Comandos enviados");
+define("RTL_CONTRATO", "Contrato");
+define("RTL_POSICAO_PERIODO", "Posiçao Período");
+define("RTL_INFO_VEICULO", "Informações do veículo");
+define("RTL_VEICULO_CONTATOS", "Contatos dos Veículos");
+define("RTL_CLIENTE_CONTATOS", "Contatos do Cliente");
+define("RTL_ATUALIZAR_LOGRADOURO", "Clique para atualizar o logradouro");
+define("RTL_VISUALIZAR_MAPA", "Visualizar mapa");
+define("RTL_PLACEHOLDER_CLIENTE", "Busque um cliente");
+define("RTL_PLACEHOLDER_VEICULO", "Busque um veículo");
+define("RTL_EM_PANICO", "Em pânico");
+define("RTL_NORMAL", "Normal");
+define("RTL_BLOQUEADO", "Bloqueado");
+define("RTL_DESBLOQUEADO", "Desbloqueado");
+define("RTL_LIGADO", "Ligado");
+define("RTL_DESLIGADO", "Desligado");
+
+define("TXT_ERRO_VEICULO", "Selecione um veículo antes de salvar");
+define("TXT_ERRO_CATEGORIA", "Selecione uma categoria antes de salvar");
+define("TXT_ERRO_COMENTARIOS", "Escreva um comentário sobre o atendimento antes de salvar");
+define("TXT_SELECIONE_VEICULO", "Selecione um veículo para que o mapa seja atualizado");
+
+define("RTL_BUSCAR_CLIENTE", "Buscar cliente");
+define("RTL_DADOS_CLIENTE", "Dados do cliente");
+define("RTL_BUSCA_CATEGORIA", "Buscar categoria de atendimento");
+define("RTL_COMENTARIOS", "Comentários de atendimento");
+define("RTL_ADICIONAR_COMENTARIO", "Adicionar atendimento");
+define("RTL_LISTAGEM_HISTORICO_CLIENTE", "Listagem do histórico do cliente");
+define("RTL_MUDAR_VEICULOS", "Mudar para veículos");
+define("RTL_LISTAGEM_VEICULOS", "Listagem de veículos");
+define("RTL_CATEGORIA_VEICULO", "Veículo e Categoria");
+define("RTL_LISTAGEM_HISTORICO_VEICULO", "Listagem de histórico de veículo");
+
+define("TXT_TUTORIAL_BUSCAR_CLIENTE", "Digite parte do nome do cliente, selecione ele na lista e tecle enter para ser direcionado para a próxima página. Clicando em próximo, uma listagem dos seus clientes irá aparecer e poderemos simular todos os passos de um atendimento. Vamos lá?");
+define("TXT_TUTORIAL_DADOS_CLIENTE", "Aqui estão todos os dados pessoais do cliente selecionado.");
+define("TXT_TUTORIAL_BUSCA_CATEGORIA", "Digite parte de uma categoria de atendimento e selecione-a na listagem que irá aparecer. Isso é necessário para cadastrar um novo histórico de atendimento.");
+define("TXT_TUTORIAL_COMENTARIOS", "Aqui você deve escrever detalhadamente como foi feito o atendimento ao cliente. Isso ficará salvo no histórico para consulta posterior.");
+define("TXT_TUTORIAL_ADICIONAR_COMENTARIO", "Assim que selecionar a categoria e preencher o comentário, clique aqui para salvar o atendimento para esse cliente.");
+define("TXT_TUTORIAL_LISTAGEM_HISTORICO_CLIENTE", "Aqui estão listados todos os atendimentos a esse cliente.");
+define("TXT_TUTORIAL_MUDAR_VEICULOS", "Agora que terminamos com o atendimento ao cliente, podemos passar ao atendimento específico para cada veículo desse cliente clicando aqui.");
+define("TXT_TUTORIAL_LISTAGEM_VEICULOS", "Aqui temos todos os veículos do cliente selecionado. Podemos visualizá-los individualmente no mapa ou suas informações detalhadas, ver o relatório de posição por período ou selecioná-lo (clicando no ícone com a seta para a direita) para adicionar um novo atendimento a ele.");
+define("TXT_TUTORIAL_CATEGORIA_VEICULO", "Ao selecionar o veículo, o rótulo irá aparecer automaticamente no campo de cima, e a categoria, como no histórico do cliente, deverá ser procurada e é necessária para adicionar um histórico.");
+define("TXT_TUTORIAL_LISTAGEM_HISTORICO_VEICULO", "E finalmente, temos uma listagem de todos os atendimentos do veículo selecionado, assim como um histórico dos comandos enviados.");
+define("TXT_TUTORIAL_ENCERRAR_ATENDIMENTO", "Quando o atendimento estiver finalizado, clique aqui para ser redirecionado novamente à seleção de clientes.");
+define("TXT_MSG_BUSCA_VEICULOS_HISTORICO", "Busca por Rótulo Ex: AAA-0000.");
+define("TXT_MSG_BUSCA_HISTORICO_VEICULOS", "Busca por:placa, categoria, mensagem, usuário.");
+define("TXT_MSG_BUSCA_HISTORICO_CLIENTE", "Busca por:categoria, mensagem.");

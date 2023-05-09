@@ -1,0 +1,25 @@
+<?
+define("RTL_ABRIR_APP_MODULOS", "Abrir App Modulos");
+define("RTL_ACAO", "Ação");
+define("RTL_ALTERAR_MODULO", "Alterar aplicativo");
+define("RTL_APP_MODULOS", "App Modulos");
+define("RTL_BACKGROUND", "Background");
+define("RTL_BACKGROUND", "Background");
+define("RTL_CATEGORIAS", "Categorias");
+define("RTL_DATA_HORA_CADASTRO", "Data Hora Cadastro");
+define("RTL_DESCRICAO", "Descrição");
+define("RTL_DESCRICAO_LISTAGEM_APP_MODULOS", "Listagem de Modulos");
+define("RTL_ICONE", "Ícone");
+define("RTL_ID", "Id");
+define("RTL_ID_MODULO", "Id Modulo");
+define("RTL_VISIBILIDADE", "Visibilidade");
+define("RTL_MENSAGEM", "Mensagem");
+define("RTL_MODULO", "Módulo");
+define("RTL_NOME", "Nome");
+define("RTL_TARGET", "Target");
+define("RTL_PERMITIR_ACESSO", "Permissão de acesso");
+define("TXT_ALERT_SUCESSO_ADICIONAR", "Sucesso ao Adicionar registro");
+define("TXT_ALERT_SUCESSO_MODIFICAR", "Sucesso ao modificar registro");
+define("TXT_PREENCHA_CAMPOS_OBRIGATORIOS", "Por favor preencher todos os campos obrigatórios");
+define("TXT_PERMITIR_ACESSO", "Utilize essa ferramenta para liberar acesso a diferentes tipos de cliente");
+define("TXT_MSG_BUSCA", "Colunas de Busca: Nome.");

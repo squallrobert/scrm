@@ -1,0 +1,27 @@
+<?
+define("RTL_ID", "Id");
+define("RTL_ID_GRUPO", "Id Grupo");
+define("RTL_ID_VEICULO", "Id Veiculo");
+define("RTL_ID_USUARIO", "Id Usuario");
+define("RTL_DATA_HORA_CADASTRO", "Data Hora Cadastro");
+define("RTL_DESCRICAO_LISTAGEM_ESPELHAMENTO", "Listagem de Espelhamento");
+define("TXT_ALERT_SUCESSO_MODIFICAR", "Sucesso ao modificar registro");
+define("TXT_ALERT_ERRO_OPERACAO", "Erro ao executar operação");
+define("TXT_ALERT_SUCESSO_OPERACAO", "Sucesso ao executar operação");
+define("TXT_ALERT_SUCESSO_ADICIONAR", "Sucesso ao Adicionar registro");
+define("TXT_CONFIRME_DELETE_REGISTROS", "Deseja realmente remover este(s) registro(s)?");
+define("TXT_CONFIRMACAO_DELETE_REGISTROS", "Registros foram excluidos com exito");
+define("TXT_ERRO_DELETAR_REGISTROS", "Erro ao Excluir registros");
+define("TXT_ERRO_NENHUM_REGISTRO_SELECIONADO", "Por favor, selecione itens para serem excluidos");
+define("TXT_ATENCAO", "Atenção");
+define("TXT_PREENCHA_CAMPOS_OBRIGATORIOS", "Por favor preencher todos os campos obrigatórios");
+define("RTL_ESPELHAMENTO", "Espelhamento");
+define("RTL_MODIFICAR_ESPELHAMENTO", "Modificar Espelhamento");
+define("RTL_ADICIONAR_ESPELHAMENTO", "Adicionar Espelhamento");
+define("RTL_GRUPO_GR", "Grupo GR");
+define("RTL_VEICULO", "Veículo");
+define("RTL_DATA_VINCULO", "Data do vínculo");
+define("RTL_DEFINIR_GRUPO_GR", "Definir grupo GR");
+define("RTL_VINCULAR_VEICULOS", "Vincular veículos");
+define("RTL_SELECIONE_VEICULOS", "Busque e selecione os veículos para vínculo");
+define("RTL_PLACEHOLDER_BUSCA_GRUPO", "Digite algo para iniciar a busca");

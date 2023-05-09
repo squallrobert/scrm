@@ -1,0 +1,21 @@
+<?
+define("RTL_RELATORIO_TELEMETRIA", "Relatório Telemetria");
+define("RTL_ID_VEICULO", "Id");
+define("RTL_MOTORISTA", "Motorista");
+define("RTL_PLACA", "Placa/Rótulo");
+define("RTL_TEMPO_MOVIMENTO", "Tempo em movimento");
+define("RTL_QUILOMETRAGEM_RODADA", "Quilometragem rodada ponto a ponto");
+define("RTL_PRIMEIRA_IGNICAO", "Primeira ignição");
+define("RTL_ULTIMA_IGNICAO", "Última ignição");
+define("RTL_TEMPO_PARADO", "Tempo parado");
+define("RTL_IGNICAO_LIGADA_PARADO", "Tempo parado com ignição ligada");
+define("RTL_EXCESSO_CHUVA", "Excesso de velocidade na chuva");
+define("RTL_EXCESSO_SECO", "Excesso de velocidade no seco");
+define("RTL_FREADA_BRUSCA", "Freada brusca");
+define("RTL_RPM_FORA_FAIXA_VERDE", "RPM fora da faixa verde");
+define("RTL_CONSUMO_MEDIO", "Consumo médio");
+define("RTL_TEMPERATURA_MOTOR", "Temperatura do motor");
+define("RTL_GRUPO", "Grupo");
+define("RTL_DATA", "Data");
+define("RTL_LIMITE_RPM", "Limite de RPM");
+define("RTL_LIMITE_VELOCIDADE_CHUVA", "Limite de velocidade na chuva");
